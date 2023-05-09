@@ -2,7 +2,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lakshay
 =====================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=1000&height=45&lines=Pursuing+Btech+In+Artificial+Intelligence+And+Data+Science;Currently+Learning+Front+End+Development;Learning+Data+Structures+And+Algorithms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=1000&height=45&lines=Pursuing+Btech+In+Artificial+Intelligence+And+Data+Science;Learning+Front+End+Development;Learning+Data+Structures+And+Algorithms)](https://git.io/typing-svg)
 
 I'm a first-year B.tech student with a strong passion for programming. I'm currently immersing myself in the world of Python, C, C++, and Java, constantly challenging myself with complex coding problems. As an ambitious problem-solver, I thrive on the satisfaction of conquering obstacles and exploring new possibilities in the tech industry. I'm eager to collaborate and learn from other like-minded individuals who share my drive and determination.
 
