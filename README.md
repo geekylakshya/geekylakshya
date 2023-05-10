@@ -8,9 +8,9 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <a href="https://github.com/greekylakshay">
+<p align="left"> <!--<a href="https://github.com/greekylakshay">
     <img src="https://komarev.com/ghpvc/?username=greekylakshay" alt="page views" />
-  </a>
+  </a>-->
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
   </a>
@@ -73,8 +73,30 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 </p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
+<!--
 <p align="center">
         <img src="https://github.com/greekylakshay/greekylakshay/blob/main/Bottom.svg" alt="Github Stats" />
+</p>
+-->
+<div align="center">
+	<img src="https://github.com/greekylakshay/greekylakshay/blob/main/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<p align="center">
+<br>
+<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
+</p>
+<br>
+<p align="center">
+  <img alt="centered image" height="85" src="https://github.com/greekylakshay/greekylakshay/blob/main/India.png"/>
+  <br>
+  <img alt="README Update" 
+  src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
+  <br>
+  <a href="https://github.com/greekylakshay">
+    <img src="https://komarev.com/ghpvc/?username=greekylakshay" alt="page views" />
+  </a>
+  <br>
+Last updated on: 2023-05-10 10:51 PM IST
 </p>
 
