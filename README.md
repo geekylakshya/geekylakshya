@@ -92,11 +92,16 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
   <br>
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
-  <br>
+  <br><br>
+	<!--
   <a href="https://github.com/greekylakshay">
     <img src="https://komarev.com/ghpvc/?username=greekylakshay" alt="page views" />
   </a>
-  <br>
-Last updated on: 2023-05-10 10:51 PM IST
+-->
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/greekylakshay/count.svg" />
+  <br><br>
+  Last updated on: 2023-05-10 10:51 PM IST
 </p>
+
 
