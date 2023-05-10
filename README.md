@@ -20,7 +20,9 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
   <a href="https://www.reddit.com/user/Fresh_Bee_2359">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Fresh_Bee_2359?label=karma&logo=reddit">
   </a>
- 
+  <a href="https://github.com/greekylakshay?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/greekylakshay?color=green&logo=github">
+  </a>
  </p>
 
 * 🌍  I'm based in Delhi,India
