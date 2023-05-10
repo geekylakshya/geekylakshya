@@ -38,6 +38,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <a href="https://www.linkedin.com/in/lakshay-10b248188/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="https://www.linkedin.com/in/lakshay-10b248188/"/></a>
 <a href="https://twitter.com/geeky_lakshay" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="geeky_lakshay"  /></a>
 <a href="https://instagram.com/geekylakshay" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="greekylakshay" /></a>
+<a href="https://www.facebook.com/lakshay.prajapati.12/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="lakshay.prajapati.12" /></a>
 <a href="https://discord.com/channels/@Geekylakshay#3812" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Geekylakshay#3812" /></a>
 </p>
 
