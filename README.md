@@ -8,17 +8,17 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <a href="https://github.com/greekylakshay/greekylakshay">
+<p align="left"> <a href="https://github.com/greekylakshay">
     <img src="https://komarev.com/ghpvc/?username=greekylakshay" alt="page views" />
   </a>
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
   </a>
   <a href="https://stackoverflow.com/users/21869032">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21869032?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://www.reddit.com/user/Fresh_Bee_2359">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Fresh_Bee_2359?label=karma&logo=reddit">
   </a>
   <a href="https://github.com/greekylakshay?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/greekylakshay?color=green&logo=github">
