@@ -59,9 +59,12 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <h2 align="left">🧑‍💻 Softwares </h2>
 <br>
 <p align="left">
-<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="repelit" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" style="vertical-align:top; margin:4px">
+<!-- for more https://home.aveek.io/GitHub-Profile-Badges/ -->
+<img src="https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white" alt="repelit" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-1CA2B0.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" alt="intellij idea" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/PyCharm-F0A229.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm" style="vertical-align:top; margin:4px">
  
 <h2 align="left">📊 Stats </h2>
 <br>
