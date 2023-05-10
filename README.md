@@ -8,13 +8,28 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekylakshay&label=Profile%20views&color=0e75b6&style=flat" alt="greekylakshay" /> </p>
+<p align="left"> <a href="https://github.com/greekylakshay/greekylakshay">
+    <img src="https://komarev.com/ghpvc/?username=greekylakshay" alt="page views" />
+  </a>
+  <a href="https://macropower.readthedocs.io/en/latest">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+  </a>
+  <a href="https://stackoverflow.com/users/21869032">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://www.reddit.com/user/Fresh_Bee_2359">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/greekylakshay?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/greekylakshay?color=green&logo=github">
+  </a>
+ </p>
 
 * 🌍  I'm based in Delhi,India
 * 🧠 I’m currently learning **Front End Web Development and DSA. I'm also looking forward to contributing in open source projects**
 * 💬 Ask me about **Java , C++ , C , Python , SQL , HTML , CSS**
-* 📫 How to reach me **lakshaygola85@gmail.com**
 * 🤝  I'm open to collaborating on I'm also open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
+* 💻  Connect with me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshay-10b248188/">LinkedIn</a>
 
 
 <h3 align="left">Socials</h3>
@@ -47,21 +62,6 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greekylakshay&" alt="greekylakshay" /></p>
 
-<h1 align="left">Coding Activity</h1>
-
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
