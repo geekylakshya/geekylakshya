@@ -32,8 +32,8 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 * 💻  Connect with me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshay-10b248188/">LinkedIn</a>
 
 
-<h3 align="left">Socials</h3>
-
+<h2 align="left">Socials 🤝</h2>
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshay-10b248188/" target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/blob/main/social/linkedin.svg" alt="https://www.linkedin.com/in/lakshay-10b248188/"/></a>
 <a href="https://twitter.com/geeky_lakshay" target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/blob/main/social/twitter.svg" alt="geeky_lakshay"  /></a>
@@ -41,8 +41,8 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 </p>
 
 
-<h3 align="left">Skills</h3>
-
+<h2 align="left">Skills 🔥 </h2>
+<br>
 <p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
@@ -56,13 +56,21 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
  
-### Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greekylakshay&show_icons=true&locale=en" alt="greekylakshay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greekylakshay&" alt="greekylakshay" /></p>
-
-<p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=greekylakshay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
+<h2 align="left">Stats 📈</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/greekylakshay/github-readme-streak-stats" title="Go to Source">
+      <img align="left" height= 100% width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=greekylakshay&theme=react&border=61dafb&hide_border=true" alt="greekylakshay" />
+    </a>
+    <a href="https://github.com/greekylakshay/github-readme-stats" title="Go to Source">
+      <img align="right" height= 100% width=390 src="https://github-readme-stats.vercel.app/api?username=greekylakshay&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=greekylakshay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
