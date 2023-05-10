@@ -35,24 +35,31 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <h2 align="left">🤝 Socials </h2>
 <br>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshay-10b248188/" target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/blob/main/social/linkedin.svg" alt="https://www.linkedin.com/in/lakshay-10b248188/"/></a>
-<a href="https://twitter.com/geeky_lakshay" target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/blob/main/social/twitter.svg" alt="geeky_lakshay"  /></a>
-<a href="https://instagram.com/geekylakshay" target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/blob/main/social/instagram.svg" alt="greekylakshay" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshay-10b248188/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="https://www.linkedin.com/in/lakshay-10b248188/"/></a>
+<a href="https://twitter.com/geeky_lakshay" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="geeky_lakshay"  /></a>
+<a href="https://instagram.com/geekylakshay" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="greekylakshay" /></a>
+<a href="https://discord.com/channels/@Geekylakshay#3812" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Geekylakshay#3812" /></a>
 </p>
 
 
 <h2 align="left">🔥 Skills </h2>
 <br>
 <p align="left">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges :: https://dev.to/envoy_/150-badges-for-github-pnk#ide :: https://home.aveek.io/GitHub-Profile-Badges/-->
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="r" style="vertical-align:top; margin:4px">
+
+	
+<h2 align="left">🧑‍💻 Softwares </h2>
+<br>
+<p align="left">
+<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="repelit" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
  
@@ -70,6 +77,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
   <br><br><br><br><br><br><br><br><br>
   
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=greekylakshay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <!--<img align="center" src="https://github-profile-trophy.vercel.app/?username=greekylakshay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
