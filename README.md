@@ -47,6 +47,22 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greekylakshay&" alt="greekylakshay" /></p>
 
+<h1 align="left">Coding Activity</h1>
+
+> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
