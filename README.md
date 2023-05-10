@@ -29,7 +29,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 * 🧠 I’m currently learning **Front End Web Development and DSA. I'm also looking forward to contributing in open source projects**
 * 💬 Ask me about **Java , C++ , C , Python , SQL , HTML , CSS**
 * 🤝  I'm open to collaborating on I'm also open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
-* 💻  Connect with me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshay-10b248188/">LinkedIn</a>
+* 💻  Connect with me on <a href="https://www.linkedin.com/in/lakshay-10b248188/">LinkedIn</a>
 
 
 <h2 align="left">🤝 Socials </h2>
