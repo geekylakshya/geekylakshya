@@ -32,7 +32,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 * 💻  Connect with me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshay-10b248188/">LinkedIn</a>
 
 
-<h2 align="left">Socials 🤝</h2>
+<h2 align="left">🤝 Socials </h2>
 <br>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshay-10b248188/" target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/blob/main/social/linkedin.svg" alt="https://www.linkedin.com/in/lakshay-10b248188/"/></a>
@@ -41,7 +41,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 </p>
 
 
-<h2 align="left">Skills 🔥 </h2>
+<h2 align="left">🔥 Skills </h2>
 <br>
 <p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -56,7 +56,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
  
-<h2 align="left">Stats 📈</h2>
+<h2 align="left">📊 Stats </h2>
 <br>
 <p align=center>
   <div align=center>
