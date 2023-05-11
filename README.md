@@ -40,7 +40,9 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <a href="https://twitter.com/geeky_lakshay" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="geeky_lakshay" style="vertical-align:top; margin:4px"/></a>
 <a href="https://instagram.com/geekylakshay" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="greekylakshay" style="vertical-align:top; margin:4px"/></a>
 <a href="https://www.facebook.com/lakshay.prajapati.12/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="lakshay.prajapati.12" style="vertical-align:top; margin:4px"/></a>
+<a href="https://dev.to/geekylakshay" target="blank"><img src="https://img.shields.io/badge/dev.to-3F2BE5?style=for-the-badge&logo=dev.to&logoColor=white" alt="geekylakshay" style="vertical-align:top; margin:4px/"></a>
 <a href="https://discord.com/channels/@Geekylakshay#3812" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Geekylakshay#3812" style="vertical-align:top; margin:4px"/></a>
+<a href="https://medium.com/@geekylakshay" target="blank"><img src="https://img.shields.io/badge/Medium-5620B8?style=for-the-badge&logo=medium&logoColor=white" alt="geekylakshay" style="vertical-align:top; margin:4px/"></a> 
 </p>
 
 <!--skills-->
