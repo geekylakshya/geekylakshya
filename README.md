@@ -1,12 +1,13 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
+<!--Intro-->
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lakshay
 =====================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=1000&height=45&lines=Pursuing+Btech+In+Artificial+Intelligence+And+Data+Science;Learning+Front+End+Development;Learning+Data+Structures+And+Algorithms)](https://git.io/typing-svg)
 
 I'm a first-year B.tech student with a strong passion for programming. I'm currently immersing myself in the world of Python, C, C++, and Java, constantly challenging myself with complex coding problems. As an ambitious problem-solver, I thrive on the satisfaction of conquering obstacles and exploring new possibilities in the tech industry. I'm eager to collaborate and learn from other like-minded individuals who share my drive and determination.
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<!--coding gif-->
+<img align="right" alt="Coding" width=400 src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <!--<a href="https://github.com/greekylakshay">
     <img src="https://komarev.com/ghpvc/?username=greekylakshay" alt="page views" />
@@ -31,18 +32,18 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 * 🤝  I'm open to collaborating on I'm also open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
 * 💻  Connect with me on <a href="https://www.linkedin.com/in/lakshay-10b248188/">LinkedIn</a>
 
-
+<!--social-->
 <h2 align="left">🤝 Socials </h2>
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/lakshay-10b248188/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="https://www.linkedin.com/in/lakshay-10b248188/"/></a>
-<a href="https://twitter.com/geeky_lakshay" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="geeky_lakshay"  /></a>
-<a href="https://instagram.com/geekylakshay" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="greekylakshay" /></a>
-<a href="https://www.facebook.com/lakshay.prajapati.12/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="lakshay.prajapati.12" /></a>
-<a href="https://discord.com/channels/@Geekylakshay#3812" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Geekylakshay#3812" /></a>
+<a href="https://www.linkedin.com/in/lakshay-10b248188/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="https://www.linkedin.com/in/lakshay-10b248188/" style="vertical-align:top; margin:4px"/></a>
+<a href="https://twitter.com/geeky_lakshay" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="geeky_lakshay" style="vertical-align:top; margin:4px"/></a>
+<a href="https://instagram.com/geekylakshay" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="greekylakshay" style="vertical-align:top; margin:4px"/></a>
+<a href="https://www.facebook.com/lakshay.prajapati.12/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="lakshay.prajapati.12" style="vertical-align:top; margin:4px"/></a>
+<a href="https://discord.com/channels/@Geekylakshay#3812" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Geekylakshay#3812" style="vertical-align:top; margin:4px"/></a>
 </p>
 
-
+<!--skills-->
 <h2 align="left">🔥 Skills </h2>
 <br>
 <p align="left">
@@ -56,7 +57,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="r" style="vertical-align:top; margin:4px">
 
-	
+<!--Softwares-->
 <h2 align="left">🧑‍💻 Softwares </h2>
 <br>
 <p align="left">
@@ -66,7 +67,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-1CA2B0.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" alt="intellij idea" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/PyCharm-F0A229.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm" style="vertical-align:top; margin:4px">
- 
+<!--Stats-->
 <h2 align="left">📊 Stats </h2>
 <br>
 <p align=center>
@@ -84,6 +85,40 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
   <!--<img align="center" src="https://github-profile-trophy.vercel.app/?username=greekylakshay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
 
+<!--certificates-->
+<h2 align="left">🎓 Certificates </h2>
+<br>
+ <table>
+  <tr>
+    <td> <a target="blank"><img align="center" src="https://github.com/WebDevBoiii/WebDevBoiii/assets/133100906/2b34fa45-8126-46d4-8ba6-de438d7ce6b9" width="80" alt="CS50"/>
+      </td>
+    <td><a href="https://certificates.cs50.io/2e040a65-cd2f-4e86-84e2-665b09c61881.pdf?size=letter" target="blank"><img align="center" src="https://img.shields.io/badge/Introduction to Computer Science-c90016.svg?style=for-the-badge" alt="CS50"/><br><br>
+         <a href="https://certificates.cs50.io/5d766ed9-ef20-4d7b-ae77-33b45992e58d.pdf?" target="blank"><img align="center" src="https://img.shields.io/badge/Introduction to Programming with python-c90016.svg?style=for-the-badge" alt="CS50P"/></a>
+      </td>
+  </tr>
+  <tr>
+    <td><a target="blank"><img align="center" src="https://github.com/WebDevBoiii/WebDevBoiii/assets/133100906/619e8850-1fde-4260-b771-42a3fa6bad1a" width="80" alt="google"/><br></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/verify/H7XPHKCVXRBP" target="blank"><img align="center" src="https://img.shields.io/badge/Technical Support Fundamentals-4086f4.svg?style=for-the-badge" alt="google"/></a><br><br>
+    <a href="https://www.coursera.org/account/accomplishments/verify/9PGF2YFWMSNL" target="blank"><img align="center" src="https://img.shields.io/badge/The Bits and Bytes of Computer Networking-4086f4.svg?style=for-the-badge" alt="google"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><a target="blank"><img align="center" src="https://github.com/WebDevBoiii/WebDevBoiii/assets/133100906/19cd01cc-0bca-481f-bf19-b43aea30331d" width="80" alt="isro"/></td>
+    <td><a href="https://drive.google.com/file/d/13aMVLnnG-1O5XCeEtSqxHtLKbzSB2OgC/view" target="blank"><img align="center" src="https://img.shields.io/badge/Remote Sensing & Gis For Environmental Studies-f87815.svg?style=for-the-badge" alt="isro"/></a>
+    </td>
+  </tr>
+</table>
+
+<details>
+ <summary>
+   <h2>🚀 My Coding Journey</h2></summary><i><b>
+  My coding journey began when I was just a curious and eager student in school. From an early age, I had a passion for learning everything I could about the programming world - from code and Linux, to theory and beyond. At the age of 10, I was fortunate enough to receive my first computer, and it quickly became my gateway to the world of machines and technology.<br>
+  As I taught myself how to work with computers and software, my interest in programming grew exponentially. I was fascinated by the endless possibilities that programming languages could offer, and I knew that I wanted to pursue this passion further. It was during my senior secondary school years that I decided to take the plunge and enroll in computer science. This decision proved to be a pivotal moment in my life, as it allowed me to delve deeper into the world of programming in a more structured and formal way.<br>
+  During my studies, I learned my second programming language, Python, which quickly became my favorite due to its versatility and ease of use. The more I learned about Python, the more amazed I was at its capabilities and the potential it held for the future of technology. After completing my 12th grade with PCM+CS, I continued to follow my passion by enrolling in college for a Bachelor's of Technology, and I chose Artificial Intelligence and Data Science as my stream.<br>
+  Today, I continue to explore the many different things and programming languages available to me, always striving to expand my knowledge and explore the possibilities that the world of coding has to offer. I am driven by my curiosity and passion for technology, and I am excited to see where this journey will take me next.</i></b><br>
+</details>
+<h2/>
+<!--outro-->
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <!--
 <p align="center">
@@ -113,7 +148,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/greekylakshay/count.svg" />
   <br><br>
-  Last updated on: 2023-05-10 10:51 PM IST
+  Last updated on: 2023-05-11 10:51 PM IST
 </p>
 
 
