@@ -29,7 +29,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 * 🌍  I'm based in Delhi,India
 * 🧠 I’m currently learning **Front End Web Development and DSA. I'm also looking forward to contributing in open source projects**
 * 💬 Ask me about **Java , C++ , C , Python , SQL , HTML , CSS**
-* 🤝  I'm open to collaborating on I'm also open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
+* 🤝 I'm open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
 * 💻  Connect with me on <a href="https://www.linkedin.com/in/lakshay-10b248188/">LinkedIn</a>
 
 <!--social-->
@@ -150,7 +150,7 @@ My coding journey began when I was just a curious and eager student in school. F
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/greekylakshay/count.svg" />
   <br><br>
-  Last updated on: 2023-05-11 10:51 PM IST
+  Last updated on: 2023-05-11 9:41 PM IST
 </p>
 
 
