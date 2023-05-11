@@ -90,20 +90,20 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <br>
  <table>
   <tr>
-    <td> <a target="blank"><img align="center" src="https://github.com/WebDevBoiii/WebDevBoiii/assets/133100906/2b34fa45-8126-46d4-8ba6-de438d7ce6b9" width="80" alt="CS50"/>
+    <td> <a target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/assets/115644084/590067ba-c04d-402e-8dc7-dfc52ff1ee7c" width="70" alt="CS50"/>
       </td>
     <td><a href="https://certificates.cs50.io/2e040a65-cd2f-4e86-84e2-665b09c61881.pdf?size=letter" target="blank"><img align="center" src="https://img.shields.io/badge/Introduction to Computer Science-c90016.svg?style=for-the-badge" alt="CS50"/><br><br>
          <a href="https://certificates.cs50.io/5d766ed9-ef20-4d7b-ae77-33b45992e58d.pdf?" target="blank"><img align="center" src="https://img.shields.io/badge/Introduction to Programming with python-c90016.svg?style=for-the-badge" alt="CS50P"/></a>
       </td>
   </tr>
   <tr>
-    <td><a target="blank"><img align="center" src="https://github.com/WebDevBoiii/WebDevBoiii/assets/133100906/619e8850-1fde-4260-b771-42a3fa6bad1a" width="80" alt="google"/><br></td>
+    <td><a target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/assets/115644084/90b6babd-1589-410f-b636-ced74dfff0d7" width="70" alt="google"/><br></td>
     <td><a href="https://www.coursera.org/account/accomplishments/verify/H7XPHKCVXRBP" target="blank"><img align="center" src="https://img.shields.io/badge/Technical Support Fundamentals-4086f4.svg?style=for-the-badge" alt="google"/></a><br><br>
     <a href="https://www.coursera.org/account/accomplishments/verify/9PGF2YFWMSNL" target="blank"><img align="center" src="https://img.shields.io/badge/The Bits and Bytes of Computer Networking-4086f4.svg?style=for-the-badge" alt="google"/></a>
     </td>
   </tr>
   <tr>
-    <td><a target="blank"><img align="center" src="https://github.com/WebDevBoiii/WebDevBoiii/assets/133100906/19cd01cc-0bca-481f-bf19-b43aea30331d" width="80" alt="isro"/></td>
+    <td><a target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/assets/115644084/b9bd0d8d-3050-4346-b0e6-69d2d5e14011" width="70" alt="isro"/></td>
     <td><a href="https://drive.google.com/file/d/13aMVLnnG-1O5XCeEtSqxHtLKbzSB2OgC/view" target="blank"><img align="center" src="https://img.shields.io/badge/Remote Sensing & Gis For Environmental Studies-f87815.svg?style=for-the-badge" alt="isro"/></a>
     </td>
   </tr>
