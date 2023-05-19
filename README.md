@@ -72,6 +72,14 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <!--Stats-->
 <h2 align="left">📊 Stats </h2>
 <br>
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=greekylakshay&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=greekylakshay&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=greekylakshay&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=greekylakshay&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=greekylakshay&theme=github_dark" />
+</div>
+<!--
 <p align=center>
   <div align=center>
     <a href="https://github.com/greekylakshay/github-readme-streak-stats" title="Go to Source">
