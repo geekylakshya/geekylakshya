@@ -9,8 +9,8 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <!--coding gif-->
 <img align="right" alt="Coding" width=400 src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <!--<a href="https://github.com/greekylakshay">
-    <img src="https://komarev.com/ghpvc/?username=greekylakshay" alt="page views" />
+<p align="left"> <!--<a href="https://github.com/geekylakshya">
+    <img src="https://komarev.com/ghpvc/?username=geekylakshya" alt="page views" />
   </a>-->
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
@@ -21,8 +21,8 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
   <a href="https://www.reddit.com/user/Fresh_Bee_2359">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Fresh_Bee_2359?label=karma&logo=reddit">
   </a>
-  <a href="https://github.com/greekylakshay?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/greekylakshay?color=green&logo=github">
+  <a href="https://github.com/geekylakshya?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/geekylakshya?color=green&logo=github">
   </a>
  </p>
 
@@ -30,7 +30,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 * 🧠 I’m currently learning **Front End Web Development and DSA. I'm also looking forward to contributing in open source projects**
 * 💬 Ask me about **Java , C++ , C , Python , SQL , HTML , CSS**
 * 🤝 I'm open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
-* 💻  Connect with me on <a href="https://www.linkedin.com/in/lakshay-10b248188/">LinkedIn</a>
+* 💻  Connect with me on <a href="https://www.linkedin.com/in/geekylakshay/">LinkedIn</a>
 
 <!--social-->
 <h2 align="left">🤝 Socials </h2>
@@ -38,7 +38,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <p align="left">
 <a href="https://www.linkedin.com/in/lakshay-10b248188/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="https://www.linkedin.com/in/lakshay-10b248188/" style="vertical-align:top; margin:4px"/></a>
 <a href="https://twitter.com/geeky_lakshay" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="geeky_lakshay" style="vertical-align:top; margin:4px"/></a>
-<a href="https://instagram.com/geekylakshay" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="greekylakshay" style="vertical-align:top; margin:4px"/></a>
+<a href="https://instagram.com/geekylakshay" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="geekylakshya" style="vertical-align:top; margin:4px"/></a>
 <a href="https://www.facebook.com/lakshay.prajapati.12/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="lakshay.prajapati.12" style="vertical-align:top; margin:4px"/></a>
 <a href="https://dev.to/geekylakshay" target="blank"><img src="https://img.shields.io/badge/dev.to-3F2BE5?style=for-the-badge&logo=dev.to&logoColor=white" alt="geekylakshay" style="vertical-align:top; margin:4px/"></a>
 <a href="https://discord.com/channels/@Geekylakshay#3812" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Geekylakshay#3812" style="vertical-align:top; margin:4px"/></a>
@@ -73,26 +73,26 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <h2 align="left">📊 Stats </h2>
 <br>
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=greekylakshay&theme=github_dark&hide_border=true" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=greekylakshay&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=greekylakshay&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=greekylakshay&theme=github_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=greekylakshay&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekylakshya&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geekylakshya&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geekylakshya&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geekylakshya&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geekylakshya&theme=github_dark" />
 </div>
 <!--
 <p align=center>
   <div align=center>
-    <a href="https://github.com/greekylakshay/github-readme-streak-stats" title="Go to Source">
-      <img align="left" height= 100% width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=greekylakshay&theme=react&border=61dafb&hide_border=true" alt="greekylakshay" />
+    <a href="https://github.com/geekylakshya/github-readme-streak-stats" title="Go to Source">
+      <img align="left" height= 100% width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=geekylakshya&theme=react&border=61dafb&hide_border=true" alt="geekylakshya" />
     </a>
-    <a href="https://github.com/greekylakshay/github-readme-stats" title="Go to Source">
-      <img align="right" height= 100% width=390 src="https://github-readme-stats.vercel.app/api?username=greekylakshay&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/geekylakshya/github-readme-stats" title="Go to Source">
+      <img align="right" height= 100% width=390 src="https://github-readme-stats.vercel.app/api?username=geekylakshya&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=greekylakshay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  <!--<img align="center" src="https://github-profile-trophy.vercel.app/?username=greekylakshay&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=geekylakshya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <!--<img align="center" src="https://github-profile-trophy.vercel.app/?username=geekylakshya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
 
 <!--certificates-->
@@ -100,20 +100,20 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <br>
  <table>
   <tr>
-    <td> <a target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/assets/115644084/590067ba-c04d-402e-8dc7-dfc52ff1ee7c" width="70" alt="CS50"/>
+    <td> <a target="blank"><img align="center" src="https://github.com/geekylakshya/geekylakshya/assets/115644084/590067ba-c04d-402e-8dc7-dfc52ff1ee7c" width="70" alt="CS50"/>
       </td>
     <td><a href="https://certificates.cs50.io/2e040a65-cd2f-4e86-84e2-665b09c61881.pdf?size=letter" target="blank"><img align="center" src="https://img.shields.io/badge/Introduction to Computer Science-c90016.svg?style=for-the-badge" alt="CS50"/><br><br>
          <a href="https://certificates.cs50.io/5d766ed9-ef20-4d7b-ae77-33b45992e58d.pdf?" target="blank"><img align="center" src="https://img.shields.io/badge/Introduction to Programming with python-c90016.svg?style=for-the-badge" alt="CS50P"/></a>
       </td>
   </tr>
   <tr>
-    <td><a target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/assets/115644084/90b6babd-1589-410f-b636-ced74dfff0d7" width="70" alt="google"/><br></td>
+    <td><a target="blank"><img align="center" src="https://github.com/geekylakshya/geekylakshya/assets/115644084/90b6babd-1589-410f-b636-ced74dfff0d7" width="70" alt="google"/><br></td>
     <td><a href="https://www.coursera.org/account/accomplishments/verify/H7XPHKCVXRBP" target="blank"><img align="center" src="https://img.shields.io/badge/Technical Support Fundamentals-4086f4.svg?style=for-the-badge" alt="google"/></a><br><br>
     <a href="https://www.coursera.org/account/accomplishments/verify/9PGF2YFWMSNL" target="blank"><img align="center" src="https://img.shields.io/badge/The Bits and Bytes of Computer Networking-4086f4.svg?style=for-the-badge" alt="google"/></a>
     </td>
   </tr>
   <tr>
-    <td><a target="blank"><img align="center" src="https://github.com/greekylakshay/greekylakshay/assets/115644084/b9bd0d8d-3050-4346-b0e6-69d2d5e14011" width="70" alt="isro"/></td>
+    <td><a target="blank"><img align="center" src="https://github.com/geekylakshya/geekylakshya/assets/115644084/b9bd0d8d-3050-4346-b0e6-69d2d5e14011" width="70" alt="isro"/></td>
     <td><a href="https://drive.google.com/file/d/13aMVLnnG-1O5XCeEtSqxHtLKbzSB2OgC/view" target="blank"><img align="center" src="https://img.shields.io/badge/Remote Sensing & Gis For Environmental Studies-f87815.svg?style=for-the-badge" alt="isro"/></a>
     </td>
   </tr>
@@ -132,11 +132,11 @@ My coding journey began when I was just a curious and eager student in school. F
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <!--
 <p align="center">
-        <img src="https://github.com/greekylakshay/greekylakshay/blob/main/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/geekylakshya/geekylakshya/blob/main/Bottom.svg" alt="Github Stats" />
 </p>
 -->
 <div align="center">
-	<img src="https://github.com/greekylakshay/greekylakshay/blob/main/assets/github-contribution-grid-snake.svg" />
+	<img src="https://github.com/geekylakshya/geekylakshya/blob/main/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <p align="center">
@@ -145,18 +145,18 @@ My coding journey began when I was just a curious and eager student in school. F
 </p>
 <br>
 <p align="center">
-  <img alt="centered image" height="85" src="https://github.com/greekylakshay/greekylakshay/blob/main/India.png"/>
+  <img alt="centered image" height="85" src="https://github.com/geekylakshya/geekylakshya/blob/main/India.png"/>
   <br>
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br><br>
 	<!--
-  <a href="https://github.com/greekylakshay">
-    <img src="https://komarev.com/ghpvc/?username=greekylakshay" alt="page views" />
+  <a href="https://github.com/geekylakshya">
+    <img src="https://komarev.com/ghpvc/?username=geekylakshya" alt="page views" />
   </a>
 -->
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/greekylakshay/count.svg" />
+  <img src="https://profile-counter.glitch.me/geekylakshya/count.svg" />
   <br><br>
   Last updated on: 2023-05-11 9:41 PM IST
 </p>
