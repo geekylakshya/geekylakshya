@@ -156,7 +156,7 @@ My coding journey began when I was just a curious and eager student in school. F
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/geekylakshya/count.svg" />
   <br><br>
-  Last updated on: 2023-05-11 9:41 PM IST
+  Last updated on: 2024-04-17 02:07 AM IST
 </p>
 
 
