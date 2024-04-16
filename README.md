@@ -18,16 +18,13 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
   <a href="https://stackoverflow.com/users/21869032">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21869032?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://www.reddit.com/user/Fresh_Bee_2359">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Fresh_Bee_2359?label=karma&logo=reddit">
-  </a>
   <a href="https://github.com/geekylakshya?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/geekylakshya?color=green&logo=github">
   </a>
  </p>
 
 * 🌍  I'm based in Delhi,India
-* 🧠 I’m currently learning **Front End Web Development and DSA. I'm also looking forward to contributing in open source projects**
+* 🧠 I’m currently learning **Machine Learning and DSA. I'm also looking forward to contributing in open source projects**
 * 💬 Ask me about **Java , C++ , C , Python , SQL , HTML , CSS**
 * 🤝 I'm open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
 * 💻  Connect with me on <a href="https://www.linkedin.com/in/geekylakshay/">LinkedIn</a>
@@ -119,6 +116,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
   </tr>
 </table>
 
+<!--
 <details>
  <summary>
    <h2>🚀 My Coding Journey</h2></summary><i><b>
