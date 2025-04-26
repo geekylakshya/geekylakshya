@@ -16,16 +16,13 @@ I'm a third-year B.Tech student with a strong passion for programming. Right now
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
   </a>
-  <a href="https://stackoverflow.com/users/21869032">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21869032?color=orange&label=reputation&logo=stackoverflow">
-  </a>
   <a href="https://github.com/geekylakshya?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/geekylakshya?color=green&logo=github">
   </a>
  </p>
 
 * 🌍  I'm based in Delhi,India
-* 🧠 I’m currently learning **Machine Learning and DSA. I'm also looking forward to contributing in open source projects**
+* 🧠 I’m currently learning **Power Bi and DSA.**
 * 💬 Ask me about **C++ ,Power Bi ,Python , SQL , HTML , CSS**
 * 🤝 I'm open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
 * 💻  Connect with me on <a href="https://www.linkedin.com/in/geekylakshay/">LinkedIn</a>
@@ -156,7 +153,7 @@ My coding journey began when I was just a curious and eager student in school. F
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/geekylakshya/count.svg" />
   <br><br>
-  Last updated on: 2024-04-17 02:07 AM IST
+  Last updated on: 2025-04-27 01:00 AM IST
 </p>
 
 
