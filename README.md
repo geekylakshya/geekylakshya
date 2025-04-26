@@ -5,7 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=1000&height=45&lines=Pursuing+Btech+In+Artificial+Intelligence+And+Data+Science;Learning+Front+End+Development;Learning+Data+Structures+And+Algorithms)](https://git.io/typing-svg)
 
-I'm a first-year B.tech student with a strong passion for programming. I'm currently immersing myself in the world of Python, C, C++, and Java, constantly challenging myself with complex coding problems. As an ambitious problem-solver, I thrive on the satisfaction of conquering obstacles and exploring new possibilities in the tech industry. I'm eager to collaborate and learn from other like-minded individuals who share my drive and determination.
+I'm a third-year B.Tech student with a strong passion for programming. Right now, I'm focusing on learning C++ and Power BI, and I love challenging myself with tough coding problems. I enjoy solving problems and exploring new opportunities in the tech world. I'm always excited to connect and learn from others who share the same passion and determination.
+
 <!--coding gif-->
 <img align="right" alt="Coding" width=400 src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
@@ -25,7 +26,7 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 
 * 🌍  I'm based in Delhi,India
 * 🧠 I’m currently learning **Machine Learning and DSA. I'm also looking forward to contributing in open source projects**
-* 💬 Ask me about **Java , C++ , C , Python , SQL , HTML , CSS**
+* 💬 Ask me about **C++ ,Power Bi ,Python , SQL , HTML , CSS**
 * 🤝 I'm open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
 * 💻  Connect with me on <a href="https://www.linkedin.com/in/geekylakshay/">LinkedIn</a>
 
@@ -46,15 +47,14 @@ I'm a first-year B.tech student with a strong passion for programming. I'm curre
 <h2 align="left">🔥 Skills </h2>
 <br>
 <p align="left">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges :: https://dev.to/envoy_/150-badges-for-github-pnk#ide :: https://home.aveek.io/GitHub-Profile-Badges/-->
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges :: https://dev.to/envoy_/150-badges-for-github-pnk#ide :: https://home.aveek.io/GitHub-Profile-Badges/ :: https://github.com/Ileriayo/markdown-badges-->
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerBi" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="r" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="firebase" style="vertical-align:top; margin:4px">
 
 <!--Softwares-->
 <h2 align="left">🧑‍💻 Softwares </h2>
