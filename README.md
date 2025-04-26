@@ -3,7 +3,7 @@
 <!--Intro-->
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lakshay
 =====================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=1000&height=45&lines=Pursuing+Btech+In+Artificial+Intelligence+And+Data+Science;Learning+Front+End+Development;Learning+Data+Structures+And+Algorithms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=1000&height=45&lines=Pursuing+Btech+In+Artificial+Intelligence+And+Data+Science;Learning+Power+Bi;Learning+Data+Structures+And+Algorithms)](https://git.io/typing-svg)
 
 I'm a third-year B.Tech student with a strong passion for programming. Right now, I'm focusing on learning C++ and Power BI, and I love challenging myself with tough coding problems. I enjoy solving problems and exploring new opportunities in the tech world. I'm always excited to connect and learn from others who share the same passion and determination.
 
