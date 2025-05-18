@@ -20,8 +20,9 @@ I'm a third-year B.Tech student with a strong passion for programming. Right now
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/geekylakshya?color=green&logo=github">
   </a>
  </p>
-
-* 🌍  I'm based in Delhi,India
+ 
+* 🗂️ <a href="https://app.powerbi.com/view?r=eyJrIjoiYmYzN2NhYjAtY2Q5Yi00NzlmLThiZmItYjRmMzFmZmJlNTU3IiwidCI6ImNiNWFkMmYzLTUwOTEtNDIyYi04YTE3LTY2ZTA4ZWQyOTBiZCJ9">Curriculum Vitae</a> 
+* 🌍 I'm based in Delhi,India
 * 🧠 I’m currently learning **Power Bi and DSA.**
 * 💬 Ask me about **C++ ,Power Bi ,Python , SQL , HTML , CSS**
 * 🤝 I'm open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
@@ -33,11 +34,8 @@ I'm a third-year B.Tech student with a strong passion for programming. Right now
 <p align="left">
 <a href="https://www.linkedin.com/in/lakshay-10b248188/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="https://www.linkedin.com/in/lakshay-10b248188/" style="vertical-align:top; margin:4px"/></a>
 <a href="https://twitter.com/geeky_lakshay" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="geeky_lakshay" style="vertical-align:top; margin:4px"/></a>
-<a href="https://instagram.com/geekylakshay" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="geekylakshya" style="vertical-align:top; margin:4px"/></a>
-<a href="https://www.facebook.com/lakshay.prajapati.12/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="lakshay.prajapati.12" style="vertical-align:top; margin:4px"/></a>
 <a href="https://dev.to/geekylakshay" target="blank"><img src="https://img.shields.io/badge/dev.to-3F2BE5?style=for-the-badge&logo=dev.to&logoColor=white" alt="geekylakshay" style="vertical-align:top; margin:4px/"></a>
 <a href="https://discord.com/channels/@Geekylakshay#3812" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Geekylakshay#3812" style="vertical-align:top; margin:4px"/></a>
-<a href="https://medium.com/@geekylakshay" target="blank"><img src="https://img.shields.io/badge/Medium-5620B8?style=for-the-badge&logo=medium&logoColor=white" alt="geekylakshay" style="vertical-align:top; margin:4px/"></a> 
 </p>
 
 <!--skills-->
@@ -49,8 +47,6 @@ I'm a third-year B.Tech student with a strong passion for programming. Right now
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerBi" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="firebase" style="vertical-align:top; margin:4px">
 
 <!--Softwares-->
@@ -72,6 +68,7 @@ I'm a third-year B.Tech student with a strong passion for programming. Right now
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geekylakshya&theme=github_dark"  />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geekylakshya&theme=github_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geekylakshya&theme=github_dark" />
+<!-- <img height="180em" src="https://leetcard.jacoblin.cool/lakshayPrajapati?theme=dark&font=Abel" /> -->
 </div>
 <!--
 <p align=center>
@@ -90,6 +87,7 @@ I'm a third-year B.Tech student with a strong passion for programming. Right now
 </p>
 
 <!--certificates-->
+<!--
 <h2 align="left">🎓 Certificates </h2>
 <br>
  <table>
@@ -112,6 +110,7 @@ I'm a third-year B.Tech student with a strong passion for programming. Right now
     </td>
   </tr>
 </table>
+-->
 
 <!--
 <details>
@@ -153,7 +152,7 @@ My coding journey began when I was just a curious and eager student in school. F
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/geekylakshya/count.svg" />
   <br><br>
-  Last updated on: 2025-04-27 01:00 AM IST
+  Last updated on: 2025-05-18 06:54 PM IST
 </p>
 
 
